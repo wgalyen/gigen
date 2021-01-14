@@ -2,6 +2,13 @@
 name = "gigen"
 version = "0.1.0"
 authors = ["Warren Galyen <wgalyen@bellhelmets.com>"]
+license = "GPL-3.0"
+description = "A .gitignore generator for projects that use git"
+readme = "README.md"
+homepage = "https://github.com.com/wgalyen/gigen.git"
+repository = "https://github.com/wgalyen/gigen.git"
+keywords = ["cli", "git", "gitignore", "vcs"]
+categories = ["command-line-utilities"]
 edition = "2018"
 
 [dependencies]
